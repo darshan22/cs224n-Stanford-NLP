@@ -1,1 +1,3 @@
-.yml
+/**/*.yml
+/**/*.log
+/**/*.DS_store
