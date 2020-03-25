@@ -1,3 +1,4 @@
-/**/*.yml
-/**/*.log
-/**/*.DS_store
+*.yml
+*.log
+*.DS_store
+*.ipynb_checkpoints
